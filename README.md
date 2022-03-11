@@ -1,1 +1,4 @@
-# dsci100-group13
+# Group Project for DSCI 100 at UBC
+Students will work together in groups to complete a Data Science project from the beginning (downloading data from the web) to the end (communicating their methods and conclusions in an electronic report). The electronic report will be a Jupyter notebook in which the code cells will download a dataset (chosen from the list of options below) from the web, reproducibly and sensibly wrangle and clean, summarize and visualize the data, as well as appropriately answer a predictive question. Markdown cells will be used throughout the document to narrate the analysis to communicates the question asked, methods used and the conclusion reached.
+
+For this project, we are answering the predictive question about a weather dataset from https://www.kaggle.com/ananthr1/weather-prediction using KNN classification.
