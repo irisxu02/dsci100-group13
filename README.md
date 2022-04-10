@@ -14,5 +14,7 @@ In defining our project goals, we chose to work with weather data because of its
 
 ## Technology Used
 R - language for statistical computing and graphics
+
 Jupyter Lab - server-client app for running notebooks
+
 Git/GitHub - version control and remote repo hosting
